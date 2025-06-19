@@ -26,3 +26,6 @@ pip install openpyxl
 
 3. Ejecuta el archivo '.py' desde tu terminal o editor.
 4. El archivo se guardará en tu escritorio automáticamente.
+
+📌 Autor: Santiago Quiroz Zapata  
+🔗 [LinkedIn](https://www.linkedin.com/in/santiago-quiroz-zapata/)
